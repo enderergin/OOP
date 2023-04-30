@@ -1,0 +1,8 @@
+C:\Users\CASPER\Desktop\Notlar\C#\OOP\bin\Debug\OOP.exe.config
+C:\Users\CASPER\Desktop\Notlar\C#\OOP\bin\Debug\OOP.exe
+C:\Users\CASPER\Desktop\Notlar\C#\OOP\bin\Debug\OOP.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Notlar\C#\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Desktop\Notlar\C#\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Notlar\C#\OOP\obj\Debug\OOP.exe
+C:\Users\CASPER\Desktop\Notlar\C#\OOP\obj\Debug\OOP.pdb
